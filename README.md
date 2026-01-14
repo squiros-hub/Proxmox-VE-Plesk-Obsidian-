@@ -76,4 +76,9 @@ Una integración común es utilizar **Proxmox Mail Gateway** como filtro de corr
 
 * **Snapshots y Backups:** Proxmox permite realizar copias de seguridad completas y snapshots de la instancia de Plesk sin tiempo de inactividad, facilitando recuperaciones ante fallos críticos mediante **Proxmox Backup Server**.
 * **Migración Facilitada:** Si necesitas mover tu servidor Plesk a un nuevo hardware, puedes usar la función de **Migración en caliente** de Proxmox para transferir la VM entre nodos con mínimos clics.
+
 * **Escalabilidad:** Permite aumentar RAM, CPU y almacenamiento en caliente desde la interfaz de Proxmox sin necesidad de reinstalar Plesk.
+
+
+- Posible guia a la hora de integrar pfsense en el servidor proxmox:
+-     https://youtu.be/QgpEqXP7uok?si=BicuSOtUcTLxaNUE
